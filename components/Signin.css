@@ -1,0 +1,22 @@
+form{
+    width:500px;
+    margin:auto;
+    margin-top:35px;
+    background-color: orange;
+    padding:25px;
+}
+legend{
+    color:white;
+    font-size:1.5rem;
+}
+input[type="text"],input[type="email"],input[type="password"],input[type="number"]{
+    width:100%;
+    font-size:20px;
+    margin-bottom:20px;
+    box-sizing: border-box;
+}
+input[type="radio"]{
+    height:20px;
+    width:20px;
+
+}
